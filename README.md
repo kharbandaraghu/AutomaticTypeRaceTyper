@@ -21,7 +21,7 @@ sudo apt install libtesseract-dev
 ```
 If you are using Windows, install Pytesseract using the instructions [[HERE]](https://github.com/UB-Mannheim/tesseract/wiki)
 ## Usage
-Refer to my blog here for usage instructions [[HERE]](https://vulcancoder.com)
+Refer to my blog here for usage instructions [[HERE]](https://vulcancoder.com/2020/12/28/useless-engineering-hacks-beat-your-friends-in-typing-race-on-typeracer-using-python/)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
